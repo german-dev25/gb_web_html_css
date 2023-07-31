@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top_header {
+    display: flex;
+    align-items: center;
+}
+
+.top_menu {
+    display: flex;
+}
+
+.top_menu ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.top_menu li {
+    margin-right: 0px;
+}
+
+.top_content {
+    display: flex;
+}
+
+.solutions_header {
+    display: flex;
+    align-items: center;
+}
+
+.solutions_cards {
+    display: flex;
+    
+}
+
+.services_cards {
+    display: flex;
+}
+
+.service_card {
+    display: block;
+}
+
+.funfact {
+    display: flex;
+    align-items: center;
+}
+
+.checkspeed {
+    display: flex;
+    align-items: center;
+}
+
+.what_do {
+    display: flex;
+    align-items: center;
+}
+
+.what_do_card {
+    display: flex;
+    align-items: center;
+}
+
+.plans_cards {
+    display: flex;
+}
+
+.team_cards {
+    display: flex;
+}
+
+.team_social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.reviews_cards {
+    display: flex;
+}
+
+.news_cards {
+    display: flex;
+}
+
+.news_card {
+    display: flex;
+}
+
+.footer_content {
+    display: flex;
+}
+
+.footer_social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
